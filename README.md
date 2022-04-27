@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</p align="center">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mykhailo Chernov</h2>
-<h3 align="center">Frontend developer at Astound Commerce</h3>
-<p align="center"> I’m currently learning <b>Game development with Threejs</b> </br></p>
-<hr>
-
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MishaChernov&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
 </p>
@@ -35,5 +29,4 @@ Here are some ideas to get you started:
 
 <br>
 
-
-<img src="https://komarev.com/ghpvc/?username=MishaChernov&style=flat-square" alt="MishaChernov" /><br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MishaChernov&style=flat-square" alt="MishaChernov" /><br></p>
